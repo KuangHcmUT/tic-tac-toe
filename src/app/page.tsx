@@ -1,5 +1,5 @@
-import HeadTitle from "./components/Head";
-import TicTacToe from "./components/TicTacToe";
+import HeadTitle from "../components/Head";
+import TicTacToe from "../components/TicTacToe";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
