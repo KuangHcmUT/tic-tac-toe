@@ -17,7 +17,7 @@ This is a simple Tic-Tac-Toe game built using Next.js (App Router), TypeScript, 
 ✅ Deployed on Vercel
 
 📂 Project Structure
-
+```
 📦 tic-tac-toe-nextjs
  ┣ 📂 app
  ┃ ┣ 📜 page.tsx (Main game screen)
@@ -29,7 +29,7 @@ This is a simple Tic-Tac-Toe game built using Next.js (App Router), TypeScript, 
  ┣ 📜 tailwind.config.js
  ┣ 📜 package.json
  ┣ 📜 README.md
-
+```
 🛠 Installation & Setup
 
 1️⃣ Clone the Repository
