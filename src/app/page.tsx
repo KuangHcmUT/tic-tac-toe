@@ -11,8 +11,8 @@ function Page() {
     return (
         <>
             <HeadTitle />
-            <div className="w-full h-full flex flex-col items-center justify-center bg-gray-100 p-4">
-                <TicTacToe />;
+            <div className="w-screen h-screen flex flex-col items-center justify-center bg-gray-100 py-2">
+                <TicTacToe />
             </div>
         </>
     );

@@ -60,8 +60,8 @@ const TicTacToe = () => {
     // }
 
     return (
-        <div className="flex flex-col items-center justify-center h-screen bg-gray-100 p-4">
-            <h1 className="text-2xl font-bold mb-4">Tic-Tac-Toe</h1>
+        <div className="flex flex-col items-center justify-start h-screen bg-gray-100 p-4">
+            <h1 className="text-2xl font-bold mb-2 xl:mt-4">Tic-Tac-Toe</h1>
             <Scoreboard score={score} playerWin={winner} />
 
             <Board

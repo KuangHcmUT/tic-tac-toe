@@ -23,7 +23,7 @@ const Board = ({
                     return (
                         <motion.button
                             key={index}
-                            className={`w-16 h-16 flex items-center justify-center text-3xl font-bold border border-gray-300 hover:bg-gray-200  ${cellClass} ${
+                            className={`w-16 h-16 flex items-center justify-center text-3xl font-bold border border-gray-300 hover:bg-gray-200 rounded  ${cellClass} ${
                                 winningCells?.includes(index)
                                     ? "bg-green-300 text-red-500"
                                     : ""
