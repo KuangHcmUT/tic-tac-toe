@@ -33,6 +33,7 @@ This is a simple Tic-Tac-Toe game built using Next.js (App Router), TypeScript, 
 🛠 Installation & Setup
 
 1️⃣ Clone the Repository
+
     git clone https://github.com/KuangHcmUT/tic-tac-toe
     cd tic-tac-toe-nextjs
 
